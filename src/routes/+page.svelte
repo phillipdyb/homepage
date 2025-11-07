@@ -27,7 +27,7 @@
     <!-- Hero Section -->
     <section class="hero">
       <h1>Hi 👋🏼</h1>
-      <p class="subtitle">Computer Science Engineer Student</p>
+      <p class="subtitle">Welcome</p>
     </section>
 
     <!-- Social Links Section -->
