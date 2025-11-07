@@ -20,7 +20,7 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           # change to 'build' if SvelteKit+adapter-static; keep 'dist' for plain Svelte(Vite)
-          path: static
+          path: dist
   deploy:
     runs-on: ubuntu-latest
     needs: build
