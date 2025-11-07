@@ -13,11 +13,11 @@
     },
     {
       title: 'Work Experience',
-      content: '4 years as an IT Operations Technician at Solwr Software AS'
+      content: '4 years as an IT Operations Technician at Solwr Software AS.'
     },
     {
       title: 'Current projects',
-      content: 'IPAM - Internet Protocol Address Manager'
+      content: 'IPAM - Internet Protocol Address Manager.'
     }
   ];
 </script>
