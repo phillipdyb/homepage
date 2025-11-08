@@ -1,5 +1,5 @@
 <script>
-	import favicon from '$lib/assets/cat.gif';
+	import favicon from '$lib/assets/favicon.jpg';
 
 	let { children } = $props();
 </script>
