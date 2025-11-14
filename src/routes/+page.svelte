@@ -22,6 +22,10 @@
   ];
 </script>
 
+<svelte:head>
+    <title>Philz' E-portfolio</title>
+</svelte:head>
+
 <main>
   <div class="container">
     <!-- Hero Section -->
